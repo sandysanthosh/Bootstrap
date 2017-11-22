@@ -1,6 +1,6 @@
 Welcome to the Bootstrapped-Template wiki!
 
-`*  <!DOCTYPE html>
+*  <!DOCTYPE html>
 * <html>
 *   <head>
 *     <title>Bootstrap 101 Template</title>
@@ -13,4 +13,4 @@ Welcome to the Bootstrapped-Template wiki!
 *     <script src="http://code.jquery.com/jquery.js"></script>
 *     <script src="js/bootstrap.min.js"></script>
 *   </body>
-* </html>`
+* </html>
