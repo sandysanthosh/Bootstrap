@@ -1,5 +1,14 @@
 Welcome to the Bootstrapped-Template wiki!
 
+html,css, javascript framework for responsive and mobile friendly website.
+
+jumbtron
+table
+button
+grid
+ form
+
+
 `*  <!DOCTYPE html>`
 `* <html>`
 `*   <head>`
